@@ -1,1 +1,2 @@
-1、[制作flutter页面流程](makepage.md)
+* 1、[制作flutter页面流程](makepage.md)
+* 2、[组件化思想](组件化.md)
