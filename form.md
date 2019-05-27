@@ -40,4 +40,14 @@ Form和TextField
     3)在✔设置的方式:TextInputAction: TextInputAction.done
     
     4)关于TextField有个线框包围的设置
+        decoration: InputDecoration(
+            hintText: '限150字（若有特殊需求，请联系商城在线客服)',
+            border: OutlineInputBorder(
+                borderRadius: const BorderRadius.all(Radius.circular(4.0)),
+            ),
+            focusedBorder: OutlineInputBorder(
+                borderRadius: const BorderRadius.all(Radius.circular(4.0)),
+            ),
+        ),
+    5)boder线框如何缩小:使用InputDecoration中的ContentPadding来设置    
 ```
