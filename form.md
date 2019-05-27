@@ -21,3 +21,23 @@ Form和TextField
     2)发送请求
     3)处理请求结果
 ```
+### 二、监听
+```
+    1)监听值的变化
+    2)监听角度的获取与失去
+```
+### 三、认识
+```
+    当弹出软键盘时，整个页面都会进行重建，
+    确认✔是也会重建整个页面
+```
+### 四、问题
+```
+    1)Row中使用TextField问题。如果报错，请使用Expanded包裹TextField
+    
+    2)如果一行中有多个元素，其中一个为TextField.若要居中，则使用autocorrect = true来自动更正
+    
+    3)在✔设置的方式:TextInputAction: TextInputAction.done
+    
+    4)关于TextField有个线框包围的设置
+```
