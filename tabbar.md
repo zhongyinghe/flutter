@@ -17,11 +17,11 @@ TabBar和TarBarView的认识
     这样会频繁地发送http请求
 ```
 ##### 3、解决方法
-1)不要在TabBarView的子widget中发送http请求
+1)方法一:不要在TabBarView的子widget中发送http请求
 ```
 先发生http请求，拿到数据后，再使用TarBarView来显示数据
 ```
-2)使用IndexedStack
+2)方法二:使用IndexedStack
 ```
 TabBar(
     tabs: tabTitles.map((tabTitle) => Tab(child: Text(tabTitle, style: TextStyle(fontSize: 18.0)))).toList(),
