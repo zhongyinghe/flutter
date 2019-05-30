@@ -3,5 +3,6 @@
 * 3、[布局](布局.md)
 * 4、[Form和TextField](form.md)
 * 5、[bloc](bloc.md)
+* 6、[http请求](http.md)
 ### 组件认识
 * A、[TabBar和TabBarView的认识](tabbar.md)
