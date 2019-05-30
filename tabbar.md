@@ -19,7 +19,7 @@ TabBar和TarBarView的认识
 ##### 3、解决方法
 1)方法一:不要在TabBarView的子widget中发送http请求
 ```
-先发生http请求，拿到数据后，再使用TarBarView来显示数据
+先发送http请求，拿到数据后，再使用TarBarView来显示数据
 ```
 2)方法二:使用IndexedStack
 ```
