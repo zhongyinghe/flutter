@@ -6,3 +6,6 @@
 * 6、[http请求](http.md)
 ### 组件认识
 * A、[TabBar和TabBarView的认识](tabbar.md)
+
+### 思考方法
+* 1、[目标现实差异法](目标现实差异法.md)
