@@ -5,6 +5,8 @@
 * 5、[bloc](bloc.md)
 * 6、[http请求](http.md)
 * 7、[回调函数和参数设置](回调函数和参数.md)
+* 8、[问题](#)
+* 8.1、[InkWel无效问题](InkWell.md)
 ### 组件认识
 * A、[TabBar和TabBarView的认识](tabbar.md)
 
