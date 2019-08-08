@@ -12,6 +12,7 @@
 * 9、[Dio](#)
 * 9.1、[Dio支持https](dio支持https证书.md)
 * 10、[地区选择实现](/area)
+* 11、[圆角](rounded_corners.md)
 ### 组件认识
 * A、[TabBar和TabBarView的认识](tabbar.md)
 
