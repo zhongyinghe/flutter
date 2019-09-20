@@ -29,3 +29,4 @@
 * 1、[被删的gen_snapshot如何找回](被删的gen_snapshot如何找回.md)
 * 2、[AndroidX版本引发的问题](AndroidX版本引起的问题.md)
 * 3、[flutter命令](flutter命令.md)
+* 4、[gradle.properties内容](关于gradle.md)
