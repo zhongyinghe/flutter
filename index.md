@@ -25,6 +25,9 @@
 ### 第三方组件认识
 * 1、[flutter_easyrefresh使用认识](easyrefresh.md)
 
+### 问题
+* 1、[不支持http的解决方法](app内更新问题.md)
+
 ### 工具问题
 * 1、[被删的gen_snapshot如何找回](被删的gen_snapshot如何找回.md)
 * 2、[AndroidX版本引发的问题](AndroidX版本引起的问题.md)
