@@ -18,6 +18,7 @@
 * 12、[图片的各种应用](图片的各种应用.md)
 ### 组件认识
 * A、[TabBar和TabBarView的认识](tabbar.md)
+* B、[关于ScrollController的认识](关于ScrollController的认识.md)
 
 ### 思考方法
 * 1、[目标现实差异法](目标现实差异法.md)
