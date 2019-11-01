@@ -4,6 +4,7 @@
 * 3、[布局](布局.md)
 * 4、[Form和TextField](form.md)
 * 5、[bloc](bloc.md)
+* 5.2、[bloc的一些问题](bloc的一些问题.md)
 * 6、[http请求](http.md)
 * 7.1、[回调函数定义](函数回调定义.md)
 * 7.2、[回调函数和参数设置](回调函数和参数.md)
