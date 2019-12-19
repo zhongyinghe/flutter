@@ -1,5 +1,6 @@
 关于flutter_staggered_grid_view的认识和使用
 -----
+##### 1、使用
 ```
  return Container(
       margin: EdgeInsets.only(top: 12.0),
@@ -17,4 +18,21 @@
         staggeredTileBuilder: (index) => StaggeredTile.fit(2),//在横轴方向,每个item占的空间比
       ),
     );
+```
+##### 2、空间占比说明
+```
+StaggeredTile.count(2, 2)
+StaggeredTile.count(2, 1)
+StaggeredTile.count(1, 2)
+
+StaggeredTile.count(横轴占比空间, 主轴占比空间)
+StaggeredTile.count(this.crossAxisCellCount, this.mainAxisCellCount)
+```
+```
+#横轴占比和主轴占比
+StaggeredTile.extent(this.crossAxisCellCount, this.mainAxisExtent)
+```
+```
+#只讲横轴占比
+StaggeredTile.fit(this.crossAxisCellCount)
 ```
