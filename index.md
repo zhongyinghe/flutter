@@ -30,6 +30,7 @@
 
 ### 第三方组件认识
 * 1、[flutter_easyrefresh使用认识](easyrefresh.md)
+* 2、[flutter_staggered_grid_view的认识和使用](flutterstaggeredgridview.md)
 
 ### 问题
 * 1、[不支持http的解决方法](app内更新问题.md)
