@@ -13,7 +13,7 @@ Widget _getBodyWidget() {
             builder: (BuildContext context, AsyncSnapshot<List<ChatMsg>> snapshot){
               int len = snapshot.data.length;
               List<ChatMsg> msgList = snapshot.data;
-              
+              //没有再次嵌套Column和Flexible代码
              return ListView.builder(
                //倒置过来的ListView，这样数据多的时候也会显示“底部”（其实是顶部），
                //因为正常的listView数据多的时候，没有办法显示在顶部最后一条
@@ -55,6 +55,7 @@ Widget _getBodyWidget() {
             builder: (BuildContext context, AsyncSnapshot<List<ChatMsg>> snapshot){
               int len = snapshot.data.length;
               List<ChatMsg> msgList = snapshot.data;
+              //再次嵌套Column和Flexible代码
               return Column(
                 children: <Widget>[
                   Flexible(
