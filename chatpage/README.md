@@ -1,6 +1,6 @@
 关于咨询页面布局的一些问题
 -----
-##### 1、没有再次前头Column和Flexible代码
+##### 1、没有再次嵌套Column和Flexible代码
 ```
 Widget _getBodyWidget() {
     return Column(
@@ -88,3 +88,8 @@ Widget _getBodyWidget() {
 ```
 显示效果<br>
 ![](image/20200106165417.png)
+
+##### 3、为什么会这样
+```
+暂时不知道
+```
