@@ -4,6 +4,7 @@
 * 2.2、[代码抽离](代码抽离.md)
 * 3、[布局](布局.md)
 * 3.2、[布局小结](布局小结.md)
+* 3.3、[聊天页面布局](/chatpage)
 * 4、[Form和TextField](form.md)
 * 5、[bloc](bloc.md)
 * 5.2、[bloc的一些问题](bloc的一些问题.md)
