@@ -94,3 +94,7 @@ Widget _getBodyWidget() {
 ```
 暂时不知道
 ```
+```
+关于撑开剩余空间，可以使用Expanded,这个在此布局中还未验证
+```
+[关于Flexible和Expanded的区别可以参考这个](https://blog.csdn.net/chunchun1230/article/details/82460257)
