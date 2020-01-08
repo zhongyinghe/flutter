@@ -27,6 +27,7 @@
 * 15、[TextField认识](TextField认识.md)
 * 16、[Text认识](Text认识.md)
 * 17、[Flexible认识](/Flexible)
+* 18、[动画入门](动画.md)
 ### 组件认识
 * A、[TabBar和TabBarView的认识](tabbar.md)
 * B、[关于ScrollController的认识](关于ScrollController的认识.md)
