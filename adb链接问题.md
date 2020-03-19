@@ -30,4 +30,8 @@ adb start-server
 #以root权限重启adb
 adb root
 ```
+### 检测错误
+```
+adb nodaemon server
+```
 [参考](https://www.jianshu.com/p/689aed65364c)
