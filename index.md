@@ -52,3 +52,4 @@
 * 4、[gradle.properties内容](关于gradle.md)
 * 5、[flutter版本回退方法](flutter版本回退方法.md)
 * 6、[adb链接问题](adb链接问题.md)
+* 6.2、[查看adb端口占用](查看adb端口占用.md)
