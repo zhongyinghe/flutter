@@ -21,6 +21,7 @@
 * 9.1、[Dio支持https](dio支持https证书.md)
 * 10、[地区选择实现](/area)
 * 11、[圆角](rounded_corners.md)
+* 11.2、[Card的圆角设置](Card的圆角设置.md)
 * 12、[图片的各种应用](图片的各种应用.md)
 * 13、[provider](provider.md)
 * 14、[ListView认识](ListView认识.md)
