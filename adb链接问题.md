@@ -30,6 +30,10 @@ adb start-server
 #以root权限重启adb
 adb root
 ```
+```
+#重新连接adb
+adb reconnect
+```
 ### 检测错误
 ```
 adb nodaemon server
