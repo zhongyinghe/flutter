@@ -27,6 +27,7 @@
 * 11.2、[Card的圆角设置](Card的圆角设置.md)
 * 11.3、[裁剪认识](裁剪认识.md)
 * 12、[图片的各种应用](图片的各种应用.md)
+* 12.2、[图片异常处理](图片异常处理.md)
 * 13、[provider](provider.md)
 * 14、[ListView认识](ListView认识.md)
 * 15、[TextField认识](TextField认识.md)
