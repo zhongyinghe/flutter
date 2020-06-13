@@ -8,3 +8,4 @@ error: The name 'DefaultHttpClientAdapter' isn't a type
 #解决方法
 import 'package:dio/adapter.dart';
 ```
+[参考](https://www.jianshu.com/p/8ada3b0102a9)
