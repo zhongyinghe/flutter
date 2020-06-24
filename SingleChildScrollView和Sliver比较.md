@@ -22,4 +22,5 @@ SingleChildScrollView和Sliver比较
 
 它主要应用于产品详情页中的图片详情
 ```
+[参考](https://www.cnblogs.com/upwgh/p/11419310.html)
 
