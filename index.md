@@ -41,6 +41,7 @@
 * 20、[DropdownButton认识.md](DropdownButton认识.md)
 ### 组件认识
 * A、[TabBar和TabBarView的认识](tabbar.md)
+* A.2、[tabbar禁止手势滑动](tabbar禁止滑动.md)
 * B、[关于ScrollController的认识](关于ScrollController的认识.md)
 
 ### 思考方法
