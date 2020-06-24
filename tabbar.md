@@ -46,4 +46,6 @@ void initData() {
 ```
 注意问题: 在页面切换后回来时IndexedStack内的child Widget不会重新调用initState()方法，但是会调用build方法;
 所以切换回来后,若http请求放在child Widget的initState中调用，它是不会重新发送http请求的,但页面会重新构建(实验可知)
+
+主要应用于app后台订单管理页面
 ```
