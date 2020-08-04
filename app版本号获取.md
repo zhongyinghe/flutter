@@ -10,4 +10,7 @@ String packageName = packageInfo.packageName;
 String version = packageInfo.version;
 String buildNumber = packageInfo.buildNumber;
 ```
+```
+主要应用于: app的版本更新
+```
 [参考链接](https://pub.dev/packages/package_info)
