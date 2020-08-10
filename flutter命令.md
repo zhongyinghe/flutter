@@ -39,3 +39,12 @@ flutter build apk --target-platform android-arm
 [参考](http://w4mxl.github.io/2019/07/10/provide-64-bit-for-google-play/)
 <br>
 [参考2](https://blog.csdn.net/dalong3976/article/details/94736506)
+
+##### flutter的channal
+```
+查看当前channel命令:
+flutter channel
+
+切换channel,如切换到master渠道:
+flutter channel master 
+```
