@@ -16,6 +16,9 @@ Windows PowerShell 5.0 或者更高的版本;
 git;
 
 所以先安装Windows PowerShell和git
+
+git的安装要注意有个地方的勾选: https://www.jianshu.com/p/a5a35fd890df
+在最后那里的勾选
 ```
 ```
 开始安装flutter:
@@ -55,3 +58,14 @@ ANDROID_HOME = D:\xxx\androidsdk
 步骤三: 创建项目:File -> New -> New Flutter Project
 
 ```
+
+### 问题
+##### 1、问题: flutter命令卡主
+```
+在flutter目录中使用: git pull
+错误信息如下:
+fatal: unable to access 'https://github.com/flutter/flutter.git/': OpenSSL SSL_read: Connection was reset, errno 10054
+
+解决方法: 在flutter目录下使用git: git config http.sslVerify "false"
+```
+[其他flutter命令卡住的解决方法](https://www.cnblogs.com/Grewer/p/12317848.html)
