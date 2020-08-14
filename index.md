@@ -74,3 +74,4 @@
 * 6.3、[关于模拟器链接adb的操作顺序](关于模拟器链接adb.md)
 * 7、[app版本修改](app版本说明.md)
 * 8、[win下搭建flutter环境](win下搭建flutter环境.md)
+* 9、[关于Please update settings.gradle错误](关于插件错误.md)
