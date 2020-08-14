@@ -62,6 +62,7 @@
 * 2、[关于不动态授权造成的错误](授权错误.md)
 * 3、[setState错误](setState错误.md)
 * 4、[fluttertoast错误](fluttertoast错误.md)
+* 5、[加载本地图片错误](加载本地图片错误.md)
 
 ### 工具问题
 * 1、[被删的gen_snapshot如何找回](被删的gen_snapshot如何找回.md)
