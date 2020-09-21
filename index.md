@@ -35,6 +35,7 @@
 * 14.2、[SingleChildScrollView和Sliver比较](SingleChildScrollView和Sliver比较.md)
 * 15、[TextField认识](TextField认识.md)
 * 16、[Text认识](Text认识.md)
+* 16.2、[Text换行设置](Text换行设置.md)
 * 17、[Flexible认识](/Flexible)
 * 18、[动画入门](动画.md)
 * 19.1、[路由跳转和返回](路由跳转和返回.md)
